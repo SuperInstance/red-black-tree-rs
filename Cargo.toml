@@ -1,0 +1,9 @@
+[package]
+name = "red-black-tree-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Left-leaning red-black BST with insert fixup, color invariants, rank queries, and order statistics"
+license = "MIT"
+repository = "https://github.com/SuperInstance/red-black-tree-rs"
+keywords = ["red-black", "tree", "data-structure", "balanced", "bst"]
+categories = ["data-structures"]
